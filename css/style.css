@@ -5,6 +5,11 @@
     font-family: 'Roboto', sans-serif;
 }
 
+.app {
+    display: flex;
+    flex-direction: column;
+}
+
 header {
     display: flex;
     justify-content: space-between;
@@ -66,4 +71,20 @@ header a {
     background: #00897b;
     color: #fff;
     cursor: pointer;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    padding-top: 50px;
+    flex-grow: 1;
+}
+
+.title {
+    color: #3c4043;
+    margin-bottom: 20px;
+}
+
+.paragraph {
+    margin-bottom: 20px;
 }
