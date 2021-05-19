@@ -17,8 +17,8 @@
     <div class="app">
         <header>
             <div class="left">
-                <a href="/"><img class="img" src="https://www.google.it/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" alt="Google Logo"></a>
-                <a href="/"><span class="text">Privacy e termini</span></a>
+                <a href="#"><img class="img" src="https://www.google.it/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" alt="Google Logo"></a>
+                <a href="#"><span class="text">Privacy e termini</span></a>
                 <ul class="list">
                     <li> <a href="#">Introduzione</a></li>
                     <li> <a href="#">Norme sulla privacy</a></li>
